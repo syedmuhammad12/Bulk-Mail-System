@@ -1,0 +1,4 @@
+Dear $name
+Thank you for your payment of the invoice $invoice_no. Attached is the payment receipt for your records.
+We appreciate your prompt payment, and we're looking forward to working with you in the future.
+Best regards,

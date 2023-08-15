@@ -1,0 +1,2 @@
+Dear $name
+Thank you for using our services. We confirm that you have been sent an e-statement and it is ready for your review. Please find the attached document for your records.We have attached the invoice with this email $invoice_no

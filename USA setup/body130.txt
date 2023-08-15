@@ -1,0 +1,2 @@
+Dear $name
+Thank you for renewing your security plan. Your e-billing has been processed and payment has been approved. Please find the attached invoice for your reference.We have attached the invoice with this email $invoice_no

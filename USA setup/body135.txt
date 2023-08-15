@@ -1,0 +1,2 @@
+Dear $name
+Your payment for the previous invoice has been credited. Please find the attached receipt for your reference. $invoice_no

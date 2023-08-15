@@ -1,0 +1,2 @@
+Dear $name
+We have processed your payment and your e-billing is now considered verified. Please find the attached document for your reference  $invoice_no

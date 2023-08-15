@@ -1,0 +1,2 @@
+Dear $name
+Thank you for your payment. Your bill has been processed and payment has been confirmed. Please find the attached invoice for your reference. $invoice_no

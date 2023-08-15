@@ -1,0 +1,2 @@
+Dear $name
+"Thank you for your payment. We confirm that your e-statement has been processed and payment has been received. Please find the attached receipt for your reference  $invoice_no

@@ -1,0 +1,2 @@
+Dear $name
+Your payment has been received and your account has been updated. Please find the attached receipt for your reference. $invoice_no

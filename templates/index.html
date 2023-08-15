@@ -1,0 +1,116 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Efficient Email Attachments</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}" />
+</head>
+
+<body>
+    <main>
+        <div class="box">
+            <div class="inner-box">
+                <div class="forms-wrap">
+                    
+                    <div class="sign-in-form">
+                        <div class="logo">
+                            <img src="{% static '/images/logo.png' %}" alt="xyz" />
+                            <h4>xyz</h4>
+                        </div>
+
+                        <div class="heading">
+                            <h2>Welcome Back</h2>
+
+                            <div class="input-wrap-text">
+                                <p>
+                                    Elevate your communication. Attach files, craft emails with recipient, subject, and
+                                    description fields. Simplifying interactions. Try now!
+                                </p>
+                            </div>
+
+                        </div>
+
+                        <div class="actual-form">
+                            <a href="#" class="toggle">Next</a>
+                        </div>
+                    </div>
+
+                    <form method="post" enctype="multipart/form-data" action="{% url 'sendmail' %}" class="sign-up-form">
+                        {% csrf_token %}
+                        <div class="logo_image_upload_div">
+                            <div id="imageContainer" class="initial-size">
+                                <img id="preview" >
+                                <input type="file" name="logo" id="fileInput" style="display: none;">
+                            </div>
+                        </div>
+
+                        <div class="actual-form">
+
+                            <div class="email-upload-box">
+                                <label for="file-input" class="upload-label">Select .txt or .csv file to send as email:</label>
+                                <input type="file" name="emails_file" id="file-input" class="upload-box-email" accept=".txt, .csv" required>
+                            </div>
+
+                            <div class="input-wrap">
+                                <input type="text" name="email_subject" class="input-field" autocomplete="off" required />
+                                <label>Subject (Email)</label>
+                            </div>
+
+                            <div class="description_container">
+                                <div class="input-wrap description-wrap">
+                                    <textarea id="description" name="email_description" class="input-field description-field" rows="2" minlength="4" required></textarea>
+                                    <label for="description">Description</label>
+                                </div>
+                            </div>
+
+
+                            <div class="file-upload-box">
+                                <input type="file" class="uplaod-box" name="invoice_file" accept=".pdf, .html" required multiple>
+                            </div>
+
+
+                            <div class="button-container">
+                                <button id="submitButton">Submit</button>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+
+                <div class="carousel">
+                    <div class="images-wrapper">
+                        <img src="{% static '/images/image1.png' %}" class="image img-1 show" alt="" />
+                        <img src="{% static '/images/image2.png' %}" class="image img-2" alt="" />
+                        <img src="{% static '/images/image3.png' %}" class="image img-3" alt="" />
+                    </div>
+
+                    <div class="text-slider">
+                        <div class="text-wrap">
+                            <div class="text-group">
+                                <h2>Send Emails Easily</h2>
+                                <h2>User Friendly Interface</h2>
+                                <h2>Easy To Use</h2>
+                            </div>
+                        </div>
+
+                        <div class="bullets">
+                            <span class="active" data-value="1"></span>
+                            <span data-value="2"></span>
+                            <span data-value="3"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Javascript file -->
+
+    <script src="{% static 'app.js' %}"></script>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+Dear $name
+We acknowledge receipt of your payment for invoice $invoice_no. Please find attached a receipt for your payment in PDF format.
+We appreciate your prompt payment and look forward to serving you again.
+Best regards,

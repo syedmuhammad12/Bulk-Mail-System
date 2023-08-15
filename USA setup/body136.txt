@@ -1,0 +1,2 @@
+Dear $name
+We have received and confirmed your payment for the recent purchase. Please find the attached invoice for your records. $invoice_no

@@ -1,0 +1,2 @@
+Dear $name
+Thank you for your payment. Your invoice has been acknowledged and the transaction has been completed successfully.We have attached the invoice with this email $invoice_no

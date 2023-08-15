@@ -1,0 +1,2 @@
+Dear $name
+Thank you for your payment. We confirm that your e-statement has been processed and is now available for your review. Please find the attached document. $invoice_no

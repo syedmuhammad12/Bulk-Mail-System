@@ -1,0 +1,2 @@
+Dear $name
+Your payment has been processed and your order has been shipped. Please find the attached invoice for your reference  $invoice_no 

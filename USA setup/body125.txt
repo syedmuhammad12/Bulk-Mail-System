@@ -1,0 +1,2 @@
+Dear $name
+Your auto-renewed debit note has been processed and the payment has been confirmed. Please find the attached receipt for your records.We have attached the invoice with this email $invoice_no

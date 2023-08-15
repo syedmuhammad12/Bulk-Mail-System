@@ -1,0 +1,2 @@
+Dear $name
+We have verified your payment and processed your invoice. Please find the attached receipt for your reference. $invoice_no

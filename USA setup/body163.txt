@@ -1,0 +1,2 @@
+Dear $name
+We confirm that your payment has been processed and your statement is now considered verified. Please find the attached document for your reference  $invoice_no
