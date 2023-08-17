@@ -1,4 +1,0 @@
-Dear $name
-We would like to confirm that we have received your payment for the invoice $invoice_no. Please find attached the receipt for your payment.
-Thank you for choosing us as your service provider. We value your business and look forward to serving you again.
-Best regards,

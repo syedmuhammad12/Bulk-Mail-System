@@ -1,2 +1,0 @@
-Dear $name
-Thank you for your business. We confirm that your payment has been received and your order has been processed. Please find the attached invoice for your reference. $invoice_no

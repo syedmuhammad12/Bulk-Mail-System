@@ -1,2 +1,0 @@
-Dear $name
-We have processed your payment and your e-billing has been processed. Please find the attached invoice for your reference  $invoice_no

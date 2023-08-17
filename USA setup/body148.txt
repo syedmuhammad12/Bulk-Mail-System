@@ -1,2 +1,0 @@
-Dear $name
-We confirm that your e-invoice has been received and processed. Please find the attached document for your reference. $invoice_no

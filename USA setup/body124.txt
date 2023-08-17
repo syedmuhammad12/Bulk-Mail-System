@@ -1,2 +1,0 @@
-Dear $name
-Your e-statement has been verified and is ready for your review. Please find the attached document for your reference.We have attached the invoice with this email $invoice_no

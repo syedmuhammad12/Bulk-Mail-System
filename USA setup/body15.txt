@@ -1,4 +1,0 @@
-Dear $name
-We have received your payment for invoice $invoice_no. Attached is the receipt for your payment in PDF format.
-Thank you for your business, and we look forward to working with you again in the future.
-Best regards,

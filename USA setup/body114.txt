@@ -1,2 +1,0 @@
-Dear $name
-    "Your payment has been approved and your e-statement has been processed. Please find the attached document for your reference  $invoice_no

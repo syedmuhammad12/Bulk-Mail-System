@@ -1,2 +1,0 @@
-Dear $name
-We have verified your bill and it has been approved for payment. Please find the attached invoice for your reference.We have attached the invoice with this email $invoice_no

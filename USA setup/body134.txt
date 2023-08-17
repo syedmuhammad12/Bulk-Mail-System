@@ -1,2 +1,0 @@
-Dear $name
-We are pleased to confirm that your subscription has been successfully renewed. Please find the attached invoice for your records. $invoice_no

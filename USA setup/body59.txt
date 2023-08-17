@@ -1,2 +1,0 @@
-Dear $name
-We confirm that your payment has been received and your debit note has been processed. Please find the attached receipt for your records  $invoice_no

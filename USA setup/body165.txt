@@ -1,2 +1,0 @@
-Dear $name
-Your payment has been approved and your e-invoice has been processed. Please find the attached invoice for your reference  $invoice_no

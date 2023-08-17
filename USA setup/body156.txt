@@ -1,2 +1,0 @@
-Dear $name
-Your payment has been credited to your account and your invoice is now marked as paid. Please find the attached receipt for your reference. $invoice_no

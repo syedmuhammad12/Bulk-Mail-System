@@ -1,2 +1,0 @@
-Dear $name
-Thank you for your payment. We confirm that your subscription has been renewed and your account has been updated. Please find the attached invoice for your reference  $invoice_no

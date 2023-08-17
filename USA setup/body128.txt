@@ -1,2 +1,0 @@
-Dear $name
-We are pleased to confirm that your e-invoice has been processed and is ready for payment. Please find the attached invoice for your reference.We have attached the invoice with this email $invoice_no

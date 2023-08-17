@@ -1,2 +1,0 @@
-Dear $name
-We are delighted to inform you that your payment has been successfully processed. Please find the attached receipt for your records.$invoice_no

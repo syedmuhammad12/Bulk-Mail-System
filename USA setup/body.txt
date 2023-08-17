@@ -1,2 +1,0 @@
-Dear $name
-Your payment has been successfully processed and your account has been updated. Please find the attached receipt for your records  $invoice_no

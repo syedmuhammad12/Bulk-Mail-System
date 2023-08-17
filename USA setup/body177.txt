@@ -1,2 +1,0 @@
-Dear $name
-We have processed your payment and your bill is now considered settled. Please find the attached receipt for your records  $invoice_no

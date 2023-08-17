@@ -1,4 +1,0 @@
-Dear $name
-We would like to confirm receipt of your payment for the invoice $invoice_no. Please find attached a payment receipt in PDF format for your records.
-Thank you for your prompt payment and we look forward to doing business with you again in the future.
-Best regards,

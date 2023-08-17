@@ -1,2 +1,0 @@
-Dear $name
-Thank you for your business. Your bill for sequences has been processed and is ready for payment. Please find the attached invoice for your records.We have attached the invoice with this email $invoice_no

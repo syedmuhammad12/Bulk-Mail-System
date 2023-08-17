@@ -1,3 +1,0 @@
-
-Dear $name
-Your payment has been received and your e-invoice is now considered verified. Please find the attached document for your reference  $invoice_no 

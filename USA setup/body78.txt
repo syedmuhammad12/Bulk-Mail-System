@@ -1,2 +1,0 @@
-Dear $name
-We have processed your payment and your e-statement is now considered verified. Please find the attached document for your reference  $invoice_no

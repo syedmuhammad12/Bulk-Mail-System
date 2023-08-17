@@ -1,2 +1,0 @@
-Dear $name
-Your statement has been successfully verified and is now available for download. Please find the attached document. $invoice_no

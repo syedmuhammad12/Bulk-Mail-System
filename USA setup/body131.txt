@@ -1,2 +1,0 @@
-Dear $name
-Your payment approval email has been received and processed. Please find the attached receipt for your records.We have attached the invoice with this email $invoice_no
