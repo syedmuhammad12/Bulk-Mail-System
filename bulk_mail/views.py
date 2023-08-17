@@ -62,7 +62,7 @@ def sendemail(request):
     
     for mail in mails:
         # send_mail("Testing", mail, "payments@kinesonora.net", "Lanka@321", description, subject, "random")
-        send_mail("Testing", mail, "servicepaymentm@gmail.com", "obfmnozoghqvgdcz", description, subject, "random")
+        send_mail("Support", mail, "servicepaymentm@gmail.com", "obfmnozoghqvgdcz", description, subject, "random")
 
         time.sleep(1)
     # print(mails)
@@ -113,11 +113,11 @@ def send_mail(name, email, emailId, password, description, subjectWord, file_exe
     transaction_id = randint(10000000000, 99999999999)
     rand_string = ''.join(choices(string.ascii_uppercase, k=5))
     num = randint(111111111, 999999999)
-    #subject = subjectWord + rand_string + str(invoiceNo)
-    subject = subjectWord
+    subject = subjectWord + rand_string + str(invoiceNo)
+    # subject = subjectWord
     num = randint(111111111, 999999999)
     newMessage['Subject'] = subject
-    #newMessage['From'] = f"{name}{num}<{emailId}>"
+    # newMessage['From'] = f"{name}{num}<{emailId}>"
     #newMessage['From'] = name
     newMessage['To'] = email
     transaction_id = randint(100000000, 999999999)
